@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nwokedi, Celestina!
 
-<!--
-**Celestina08/Celestina08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **beginner data scientist** and currently a student at the **Women Techsters Fellowship**.  
+🌱 I'm passionate about learning data analysis, machine learning, and telling stories with data.  
+🔭 I'm currently working on improving my Excel, Python, SQL, and data visualization skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Learning
+- Excel
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+- Git and GitHub workflows
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [X (formerly Twitter)](https://x.com/your-handle)  
+- [Email](mailto:your.email@example.com)
